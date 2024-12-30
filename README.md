@@ -12,17 +12,21 @@ NewProspects is an iOS application designed to streamline networking at conferen
 
 ## Screenshots
 
-![Home Screen](path_to_home_screen_image)
-*Description of the Home Screen.*
+### Home Screen and QR Code Generation
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55581dc3-f42a-406e-bf0d-7dc80b0e903c" width="400" height="1000">
+  <img src="https://github.com/user-attachments/assets/df7ab7f3-cc7a-463f-8357-8166ee0a0e08" width="400" height="1000">
+</p>
 
-![QR Code Generation](path_to_qr_code_generation_image)
-*Description of the QR Code Generation feature.*
+### Contact List
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ed51af5-80ac-4045-a27e-a33f9403104a" width="300" height="600">
+  <img src="https://github.com/user-attachments/assets/0990b976-a197-4706-90f0-1c034bce22c0" width="300" height="600">
+  <img src="https://github.com/user-attachments/assets/333432f6-f8e7-438a-9e6c-2f0d500dc576" width="300" height="600">
+</p>
 
-![Contact List](path_to_contact_list_image)
-*Description of the Contact List.*
 
-![Contact Details](path_to_contact_details_image)
-*Description of the Contact Details screen.*
+
 
 ## Installation
 
